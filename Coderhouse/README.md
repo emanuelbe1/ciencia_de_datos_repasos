@@ -14,7 +14,7 @@ Estado: Aprobada
 
 ### Segunda entrega
 
-Titulo: "Practica integradora: Visualizaciónes en Python"
+Titulo: "Practica: Visualizaciónes en Python"
 
 [Enlace al archivo entregado](--)
 
