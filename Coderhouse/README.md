@@ -20,4 +20,4 @@ Titulo: "Practica: Visualizaciónes en Python"
 
 Fecha de entrega: 23/09/2023
 
-Estado: --
+Estado: Aprobada
