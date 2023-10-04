@@ -16,8 +16,8 @@ Estado: Aprobada
 
 Titulo: "Practica: Visualizaciónes en Python"
 
-[Enlace al archivo entregado](--)
+[Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/visualizacionesPython/visualizacionBenitez.ipynb)
 
 Fecha de entrega: 23/09/2023
 
-Estado: --
+Estado: Aprobada
