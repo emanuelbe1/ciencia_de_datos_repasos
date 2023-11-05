@@ -35,7 +35,7 @@ Estado: Aprobada
 
 ### Cuarta entrega
 
-Titulo: "Estructurando un Proyecto de DS (Parte II)"
+Titulo: "Estructurando un Proyecto de Data Science (Parte II)"
 
 [Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/ProyectoDS_ParteII/ProyectoDS_ParteII_Benitez.ipynb)
 
@@ -45,7 +45,7 @@ Estado: Aprobada
 
 ### Quinta entrega
 
-Titulo: "Estructurando un Proyecto de DS (Parte III)"
+Titulo: "Estructurando un Proyecto de Data Science (Parte III)"
 
 [Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/ProyectoDS_ParteIII/ProyectoDS_ParteIII_Benitez.ipynb)
 
