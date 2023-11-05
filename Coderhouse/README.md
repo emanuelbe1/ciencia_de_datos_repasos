@@ -21,3 +21,36 @@ Titulo: "Practica: Visualizaciónes en Python"
 Fecha de entrega: 23/09/2023
 
 Estado: Aprobada
+
+### Tercer entrega
+
+Titulo: "Estructurando un Proyecto de Data Science (Parte I)"
+
+[Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/ProyectoDS_ParteI/ProyectoDS_ParteI_Benitez.ipynb)
+
+Fecha de entrega: 04/10/2023
+
+Estado: Aprobada
+
+
+### Cuarta entrega
+
+Titulo: "Estructurando un Proyecto de DS (Parte II)"
+
+[Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/ProyectoDS_ParteII/ProyectoDS_ParteII_Benitez.ipynb)
+
+Fecha de entrega: 21/10/2023
+
+Estado: Aprobada
+
+### Quinta entrega
+
+Titulo: "Estructurando un Proyecto de DS (Parte III)"
+
+[Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/ProyectoDS_ParteIII/ProyectoDS_ParteIII_Benitez.ipynb)
+
+Fecha de entrega: 28/10/2023
+
+Estado: Aprobada
+
+
