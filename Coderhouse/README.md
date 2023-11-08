@@ -53,4 +53,9 @@ Fecha de entrega: 28/10/2023
 
 Estado: Aprobada
 
+### Entrega complementaria I
+
+Titulo: "Desafio complementario: Evaluando modelos"
+[Enlace al archivo entregado](https://github.com/emanuelbe1/ciencia_de_datos_repasos/blob/main/Coderhouse/Proyecto_ComplementarioI/Proyecto_ComplementarioI_Benitez.ipynb)
+Fecha de entrega: 3/11/2023
 
